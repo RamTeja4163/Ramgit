@@ -33,5 +33,6 @@ print(fruit["lemon"])
 del fruit["lemon"]
 print(fruit)
 
+print(fruit["grape"])
 
 
